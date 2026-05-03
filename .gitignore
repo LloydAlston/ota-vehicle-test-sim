@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and screenshots (if you don't want them tracked)
+logs/
+screenshots/
