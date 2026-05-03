@@ -1,0 +1,16 @@
+ecu,status,old_version,new_version,failure_reason
+Powertrain Control Module,FAILED,v1.0,v2.1,Flash verification failed
+Powertrain Control Module,FAILED,v1.0,v2.1,Flash verification failed
+Powertrain Control Module,UPDATED,v1.0,v2.1,
+Powertrain Control Module,UPDATED,v1.0,v2.1,
+Powertrain Control Module,UPDATED,v1.0,v2.1,
+ADAS System,UPDATED,v1.2,v2.1,
+ADAS System,FAILED,v1.2,v2.1,Flash verification failed
+ADAS System,FAILED,v1.2,v2.1,Flash verification failed
+ADAS System,UPDATED,v1.2,v2.1,
+ADAS System,UPDATED,v1.2,v2.1,
+Infotainment Head Unit,FAILED,v2.0,v2.1,Flash verification failed
+Infotainment Head Unit,UPDATED,v2.0,v2.1,
+Infotainment Head Unit,UPDATED,v2.0,v2.1,
+Infotainment Head Unit,UPDATED,v2.0,v2.1,
+Infotainment Head Unit,UPDATED,v2.0,v2.1,

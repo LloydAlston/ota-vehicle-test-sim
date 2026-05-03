@@ -1,0 +1,145 @@
+INFO:root:Starting OTA test run
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Failure
+INFO:root:Starting OTA test run
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Success
+INFO:root:Starting OTA test run
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Success
+INFO:root:Starting OTA test run
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Success
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Failure
+INFO:root:Starting OTA test run
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Failure
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: Success
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Success
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Failure
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Success
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Success
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: Failure
+INFO:root:Starting OTA test run
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: FAILED
+INFO:root:Starting OTA test run
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Powertrain Control Module
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: ADAS System
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: FAILED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: UPDATED
+INFO:root:Testing ECU: Infotainment Head Unit
+INFO:root:Result: UPDATED
